@@ -261,7 +261,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
             break;
         case "2":
-          urlNova = "";
+          urlNova = "astronomia-1-e1580089605623-800x400.jpg";
           textoprincipal.innerText="a importancia dos telescópios ";
           texto.innerText="a importancia dos telescopios na descoberta do cosmo avanço tecnologico e ampliação do horizonte humano, o telescopio é a pricipal ferramenta do astronomo, funcionando como um olhp gigante que capta mais luz do que o olho humano e amplia os objetos distantes. Desde que galileu galilei apontou pela primeira vez sua pequena luneta para o céu em 1609, descobrindo crateras na lua e luas ao redor de jupiter, o designe dos telescopios evolouio drasticamente. Hoje, eles podem ser gigantescos refletores no alto de montanhas ou complexos observatorios espaciais, como o Hublle e o James Webb, livres da distorção atmosferica da terra";
           descrevefigura.innerText="Telescopio olhando para o espaço";
