@@ -261,18 +261,18 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
             break;
         case "2":
-          urlNova = '';
+          urlNova = "https://www.google.com/imgres?q=telescopio%20virado%20para%20o%20c%C3%A9u&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Ftelesc%25C3%25B3pio-aponta-para-um-c%25C3%25A9u-estrelado-cheio-de-incont%25C3%25A1veis-estrelas-e-gal%25C3%25A1xias-beleza-do-universo-cativa-explorem-as-333024855.jpg&imgrefurl=https%3A%2F%2Fpt.dreamstime.com%2Ftelesc%25C3%25B3pio-aponta-para-um-c%25C3%25A9u-estrelado-cheio-de-incont%25C3%25A1veis-estrelas-e-gal%25C3%25A1xias-beleza-do-universo-cativa-explorem-as-image333024855&docid=FfwlBpj-QDPpNM&tbnid=6kRO7oqq5wfIBM&vet=12ahUKEwjX_7ye-NSWAxXKHLkGHSdGElcQnPAOegQIdxAA..i&w=800&h=449&hcb=2&ved=2ahUKEwjX_7ye-NSWAxXKHLkGHSdGElcQnPAOegQIdxAA";
           textoprincipal.innerText="a importancia dos telescópios ";
           texto.innerText="a importancia dos telescopios na descoberta do cosmo avanço tecnologico e ampliação do horizonte humano, o telescopio é a pricipal ferramenta do astronomo, funcionando como um olhp gigante que capta mais luz do que o olho humano e amplia os objetos distantes. Desde que galileu galilei apontou pela primeira vez sua pequena luneta para o céu em 1609, descobrindo crateras na lua e luas ao redor de jupiter, o designe dos telescopios evolouio drasticamente. Hoje, eles podem ser gigantescos refletores no alto de montanhas ou complexos observatorios espaciais, como o Hublle e o James Webb, livres da distorção atmosferica da terra"
               ;
           descrevefigura.innerText="Telescopio olhando para o espaço";
           break;
             case "3":
-          urlNova = '';
-          textoprincipal.innerText="a importancia dos telescópios ";
-          texto.innerText="a importancia dos telescopios na descoberta do cosmo avanço tecnologico e ampliação do horizonte humano, o telescopio é a pricipal ferramenta do astronomo, funcionando como um olhp gigante que capta mais luz do que o olho humano e amplia os objetos distantes. Desde que galileu galilei apontou pela primeira vez sua pequena luneta para o céu em 1609, descobrindo crateras na lua e luas ao redor de jupiter, o designe dos telescopios evolouio drasticamente. Hoje, eles podem ser gigantescos refletores no alto de montanhas ou complexos observatorios espaciais, como o Hublle e o James Webb, livres da distorção atmosferica da terra"
+          urlNova = "https://www.google.com/imgres?q=nebulosa&imgurl=https%3A%2F%2Fs4.static.brasilescola.uol.com.br%2Fbe%2F2025%2F07%2Fnebulosa-caranguejo-famosa.jpg&imgrefurl=https%3A%2F%2Fbrasilescola.uol.com.br%2Fo-que-e%2Ffisica%2Fo-que-sao-nebulosas.htm&docid=R5GHoDXjlrdiZM&tbnid=NzHQrUM7IEGF5M&vet=12ahUKEwih0v3A-NSWAxV4E7kGHQ6rDR0QnPAOegUIgAEQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwih0v3A-NSWAxV4E7kGHQ6rDR0QnPAOegUIgAEQAA";
+          textoprincipal.innerText="Ciclo da vida estelar ";
+          texto.innerText="As estrelas, como nosso sol, não são eternas. Elas tem um ciclo de vida fascinante que podem durar bilhões de anos em vastas núvens de gás e poeira chamadas nebulosas. Sobe a influência da gravidada,partes destas núvens entram em colapso, formando protoestrelas que eventualmente se tornam estrelas da sequência principal, fundindo Hidrogenio em seu núcleo para produzir luz e calor."
               ;
-          descrevefigura.innerText="Telescopio olhando para o espaço";
+          descrevefigura.innerText="nebulosa";
           break;
         default:
           urlNova = 'acessibilidade.png';
