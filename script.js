@@ -261,7 +261,7 @@ function trocarImagem(escolha) {
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
             break;
         case "2":
-          urlNova = "https://www.google.com/imgres?q=telescopio%20virado%20para%20o%20c%C3%A9u&imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2Ftelesc%25C3%25B3pio-aponta-para-um-c%25C3%25A9u-estrelado-cheio-de-incont%25C3%25A1veis-estrelas-e-gal%25C3%25A1xias-beleza-do-universo-cativa-explorem-as-333024855.jpg&imgrefurl=https%3A%2F%2Fpt.dreamstime.com%2Ftelesc%25C3%25B3pio-aponta-para-um-c%25C3%25A9u-estrelado-cheio-de-incont%25C3%25A1veis-estrelas-e-gal%25C3%25A1xias-beleza-do-universo-cativa-explorem-as-image333024855&docid=FfwlBpj-QDPpNM&tbnid=6kRO7oqq5wfIBM&vet=12ahUKEwjX_7ye-NSWAxXKHLkGHSdGElcQnPAOegQIdxAA..i&w=800&h=449&hcb=2&ved=2ahUKEwjX_7ye-NSWAxXKHLkGHSdGElcQnPAOegQIdxAA";
+          urlNova = "";
           textoprincipal.innerText="a importancia dos telescópios ";
           texto.innerText="a importancia dos telescopios na descoberta do cosmo avanço tecnologico e ampliação do horizonte humano, o telescopio é a pricipal ferramenta do astronomo, funcionando como um olhp gigante que capta mais luz do que o olho humano e amplia os objetos distantes. Desde que galileu galilei apontou pela primeira vez sua pequena luneta para o céu em 1609, descobrindo crateras na lua e luas ao redor de jupiter, o designe dos telescopios evolouio drasticamente. Hoje, eles podem ser gigantescos refletores no alto de montanhas ou complexos observatorios espaciais, como o Hublle e o James Webb, livres da distorção atmosferica da terra"
               ;
