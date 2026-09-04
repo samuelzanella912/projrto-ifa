@@ -255,7 +255,7 @@ function trocarImagem(escolha) {
     const imagemnova=document.getElementById('imagemPrincipal');
     switch(escolha){
         case "1":
-          urlNova ="https://humanidades.com/wp-content/uploads/2018/09/astronomia-1-e1580089605623-800x400.jpg";
+          urlNova ="https://upload.wikimedia.org/wikipedia/commons/6/62/Starsinthesky.jpg?utm_source=pt.wikipedia.org&utm_campaign=index&utm_content=original";
           textoprincipal.innerText="O que é a astronomia";
           texto.innerText="A astronomia é a ciencia do estudo das estrelas, dos planetas, das galaxias, das nebulosas, dos asteroides, dos cometas e de outros fenomenos cosmicos. Busca compreender a formação e a evolução das estrelas e dos planetas, conhecer a origem do universo, estudar a estrutura e a dinamica das galaxias e investigar a natureza dos buracos negros e da materia escura que formam parte do espaço";
           descrevefigura.innerText="Imagem do Sol na cor amarela ";
